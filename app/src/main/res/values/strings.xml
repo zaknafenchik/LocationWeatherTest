@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationWeather</string>
+
+    <string name="radius">radius</string>
+    <string name="_500">500</string>
+    <string name="accept">accept</string>
+    <string name="find_city">find city</string>
+</resources>
